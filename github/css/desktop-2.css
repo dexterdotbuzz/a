@@ -5,8 +5,8 @@
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 1080px;
-  width: 1920px;
+  height: 540px;
+  width: 960px;
 }
 
 .desktop-2 .overlap-group2 {
