@@ -1,0 +1,242 @@
+/* screen - desktop-2 */
+
+.desktop-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.desktop-2 .overlap-group2 {
+  align-items: flex-start;
+  background-color: #545975;
+  display: flex;
+  height: 65px;
+  min-width: 1920px;
+  padding: 11px 41px;
+}
+
+.desktop-2 .title {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 36px;
+  letter-spacing: 0;
+  min-height: 42px;
+}
+
+.desktop-2 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  margin-left: 41px;
+  margin-top: 20px;
+  min-width: 1737px;
+}
+
+.desktop-2 .place {
+  letter-spacing: 0;
+  min-height: 25px;
+  min-width: 58px;
+}
+
+.desktop-2 .monthly-orders {
+  letter-spacing: 0;
+  margin-left: 272px;
+  min-height: 25px;
+  min-width: 148px;
+}
+
+.desktop-2 .targeted-countries {
+  letter-spacing: 0;
+  margin-left: 214px;
+  min-height: 25px;
+  min-width: 183px;
+}
+
+.desktop-2 .text-1 {
+  letter-spacing: 0;
+  margin-left: 352px;
+  min-height: 25px;
+  min-width: 215px;
+}
+
+.desktop-2 .text-2 {
+  letter-spacing: 0;
+  margin-left: 209px;
+  min-height: 25px;
+}
+
+.desktop-2 .overlap-group4 {
+  align-items: flex-start;
+  background-color: #e1edf1;
+  display: flex;
+  height: 223px;
+  margin-top: 187px;
+  min-width: 1920px;
+  padding: 21px 41px;
+}
+
+.desktop-2 .product-images-1 {
+  letter-spacing: 0;
+  min-height: 25px;
+  min-width: 195px;
+}
+
+.desktop-2 .product-link-1 {
+  letter-spacing: 0;
+  margin-left: 348px;
+  min-height: 25px;
+  min-width: 166px;
+}
+
+.desktop-2 .current-price-1 {
+  letter-spacing: 0;
+  margin-left: 202px;
+  min-height: 25px;
+  min-width: 171px;
+}
+
+.desktop-2 .variants-1 {
+  letter-spacing: 0;
+  margin-left: 231px;
+  min-height: 25px;
+  min-width: 125px;
+}
+
+.desktop-2 .more-info-1 {
+  letter-spacing: 0;
+  margin-left: 187px;
+  min-height: 25px;
+}
+
+.desktop-2 .overlap-group1 {
+  align-items: flex-start;
+  background-color: #bed7e2;
+  display: flex;
+  height: 223px;
+  min-width: 1920px;
+  padding: 21px 41px;
+}
+
+.desktop-2 .image-5 {
+  height: 22px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.desktop-2 .product-images {
+  letter-spacing: 0;
+  margin-left: 6px;
+  min-height: 25px;
+  min-width: 169px;
+}
+
+.desktop-2 .image-557 {
+  height: 22px;
+  margin-left: 336px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.desktop-2 .product-link {
+  letter-spacing: 0;
+  margin-left: 6px;
+  min-height: 25px;
+  min-width: 139px;
+}
+
+.desktop-2 .image-5-1 {
+  height: 22px;
+  margin-left: 201px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.desktop-2 .current-price {
+  letter-spacing: 0;
+  margin-left: 6px;
+  min-height: 25px;
+  min-width: 145px;
+}
+
+.desktop-2 .image-555 {
+  height: 22px;
+  margin-left: 229px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.desktop-2 .variants {
+  letter-spacing: 0;
+  margin-left: 6px;
+  min-height: 25px;
+  min-width: 98px;
+}
+
+.desktop-2 .image-5-2 {
+  height: 22px;
+  margin-left: 186px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.desktop-2 .more-info {
+  letter-spacing: 0;
+  margin-left: 6px;
+  min-height: 25px;
+}
+
+.desktop-2 .overlap-group {
+  align-items: flex-start;
+  background-color: #e1edf1;
+  display: flex;
+  height: 223px;
+  min-width: 1920px;
+  padding: 20px 41px;
+}
+
+.desktop-2 .image-562 {
+  height: 22px;
+  margin-left: 346px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.desktop-2 .group-4 {
+  align-items: center;
+  display: flex;
+  height: 25px;
+  margin-left: 229px;
+  min-width: 126px;
+}
+
+.desktop-2 .image-561 {
+  height: 22px;
+  margin-bottom: 1.0px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.desktop-2 .overlap-group3 {
+  align-items: flex-end;
+  background-color: #545975;
+  display: flex;
+  height: 113px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 1920px;
+  padding: 32px 49px;
+}
+
+.desktop-2 .sttmlogowhite1-1 {
+  height: 48px;
+  width: 186px;
+}
